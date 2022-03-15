@@ -47,7 +47,22 @@
     width: 60px;
     height: 60px;
     background: red;
+    transition: all 1.5s;
 }
+
+.ex-5-square:hover {
+    width: 120px;
+    height: 120px;
+    /* height: 10.5vw; */
+    margin: -1.5%;
+}
+
+.ex-5-square:active {
+    width: 30px;
+    height: 30px;
+    margin: 3.5%;
+}
+
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
 }
