@@ -53,7 +53,6 @@
 .ex-5-square:hover {
     width: 120px;
     height: 120px;
-    /* height: 10.5vw; */
     margin: -1.5%;
 }
 
@@ -65,6 +64,10 @@
 
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
+}
+
+.ex-6-img:hover {
+    filter: grayscale(4)
 }
 
 .ex-9-img {
