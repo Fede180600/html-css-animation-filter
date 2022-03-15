@@ -96,9 +96,8 @@
 }
 
 .ex-9-img:hover {
-    margin: -5px;
-    width: 600px;
     border-radius: 15px;
+    transform: scale(1.5);
 }
 .ex-10-icon {
     font-size: 60px;
